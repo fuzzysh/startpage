@@ -17,7 +17,7 @@
 		flex-direction: row;
 		align-items: flex-start;
 		font-size: 1.1rem;
-		margin-bottom: 80px;
+                margin-bottom: 30px;
 	}
 	li{
 		color: #d3d3d3;
@@ -39,6 +39,6 @@
 		color: gray;
 	}
 	img{
-		margin-top: 40px;
+		margin-top: 90px;
 	}
 }
